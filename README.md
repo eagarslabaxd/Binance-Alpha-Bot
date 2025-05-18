@@ -10,7 +10,22 @@
 
 **Binance Alpha Bot** is completely free to use.  
 No payments, no hidden fees — just download and start automating.
+Binance Alpha Bot – your ultimate airdrop farming tool.
 
+Effortlessly farm Binance points across hundreds of accounts in parallel.
+Designed for speed, scale, and stealth, this bot automates tasks, rotates proxies, mimics human behavior, and maximizes your airdrop eligibility — all while keeping costs ultra-low.
+
+🚀 Multi-account farming
+
+🧠 Smart session & fingerprint spoofing
+
+🔄 Proxy & wallet rotation
+
+💰 Cheap, fast, and highly efficient
+
+🪂 Optimized for the Binance Points Airdrop system
+
+Get ahead of the crowd. Automate everything. Earn more.
 ---
 
 ## 📘 Guides
